@@ -7,4 +7,4 @@ a portfolio.
 [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w) has been a great help on
 my journey on PHP, Yii2 and Laravel, so many thanks :D
 
-You can find the guide on how to make this portfolio [here](https://www.youtube.com/watch?v=JNhmEoBsZ48)
+You can find the guide on how to make this portfolio [here](https://www.youtube.com/watch?v=JNhmEoBsZ48 "Build and Deploy Laravel 9 Portfolio - For Beginners")
